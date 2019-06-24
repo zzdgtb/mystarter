@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
  * @version: 1.0.0
  */
 @ConfigurationProperties(
-        prefix = "yundt.cube.center.isales.datasource"
+        prefix = "my.redis"
 )
 @Component
 public class RedisProperties {
