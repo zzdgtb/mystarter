@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.mystater.mycache.config.RedisAutoConfiguration
