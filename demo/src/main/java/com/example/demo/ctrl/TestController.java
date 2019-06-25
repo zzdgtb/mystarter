@@ -17,7 +17,6 @@ public class TestController {
     @Autowired
     private Jedis jedis;
 
-
     @RequestMapping("/mytest")
     public String test1(){
         jedis.set("a","a");
