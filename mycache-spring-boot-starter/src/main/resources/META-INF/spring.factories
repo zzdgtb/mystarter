@@ -1,1 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.mystater.mycache.config.RedisAutoConfiguration
+org.springframework.context.ApplicationListener=com.mystater.mycache.config.TestListiener
